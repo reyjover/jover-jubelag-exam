@@ -50,7 +50,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
 
                         <div id="footer">
                     
-                        <div class="indexheader"> <div class="brand">   <div class="logo-small">  <img src="img/logo.png" alt="SportHub" style="width:75px;height:75px;"> </div> SPORTHUB </div> | College and Professional Sports </div>
+                        <div class="indexheader"> <div class="brand"> SPORTHUB </div> | College and Professional Sports </div>
                         </div>
     </div>
     </body>
