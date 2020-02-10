@@ -128,3 +128,9 @@ body {
     height: 600px;
     object-fit: contain;
 }
+.logo-small {
+ margin: 0 auto;
+    width: 75px;
+    height: 75px;
+    object-fit: contain;
+}
