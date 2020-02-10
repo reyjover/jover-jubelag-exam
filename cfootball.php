@@ -6,7 +6,7 @@
  $content = $domOBJ->getElementsByTagName("item");
  ?>
  <br/> <br/>
-<div class="brand"> COLLEGE FOOTBALL ARTICLES </div> 
+<div class="brand"> COLLEGE AMERICAN FOOTBALL ARTICLES </div> 
                   
 <?php 
  foreach( $content as $data )
