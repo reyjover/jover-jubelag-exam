@@ -5,6 +5,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
     <head>
         <title>  SPORTHUB | College and Pro Sports </title>
         <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="icon" href="img/favicon.png" type="image/gif">
         <link href="https://fonts.googleapis.com/css?family=Kanit:800i|Oswald|Teko:600&display=swap" rel="stylesheet">
     </head>
     <body>
