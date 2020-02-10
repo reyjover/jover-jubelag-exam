@@ -124,7 +124,7 @@ body {
 }
 .logo {
  margin: 0 auto;
-    width: 800px;
-    height: 800px;
+    width: 600px;
+    height: 600px;
     object-fit: contain;
 }
