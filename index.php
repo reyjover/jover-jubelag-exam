@@ -18,7 +18,7 @@ $loadnav = (isset($_GET['loadnav']) && $_GET['loadnav'] != '') ? $_GET['loadnav'
                         <li> <a href="index.php?loadnav=cbasketball"> COLLEGE BASKETBALL  </a> </li>
                         <li> <a href="index.php?loadnav=pbasketball"> PRO BASKETBALL  </a> </li>
                         <li> <a href="index.php?loadnav=cafootball"> COLLEGE AMERICAN FOOTBALL  </a> </li>
-                        <li> <a href="index.php?loadnav=pfootball"> PRO FOOTBALL  </a> </li>
+                        <li> <a href="index.php?loadnav=pfootball"> PRO SOCCER  </a> </li>
                         <li> <a href="index.php?loadnav=contact"> CONTACT US </a> </li>
                         </ul>
                         </div>
