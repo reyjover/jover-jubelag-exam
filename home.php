@@ -9,7 +9,7 @@
 
     <div class= "content">
             <div class="header"> SPORTHUB </div>
-            <div class="logo"> <img src="img/logo.png" alt="SportHub" style="width:600px;height:600px;"> </div><br/> <br/> 
+            <div class="logo"> <img src="img/logo.png" alt="SportHub" style="width:600px;height:600px;"> </div><br/> <br/>  <br/> 
         <div class="content-text"> " Here at SPORTHUB, you are able to view a variety of news articles from the college 
             and professional area. We focus more on Basketball and Football. You can either choose to monitor the college spectrum for prospect players
             and uprising stars or stay updated in the professional league where the big boys play! " - Bull George | CEO 
