@@ -20,6 +20,12 @@ a:link {
   a:active {
     color: #FFC906;
   }
+.title-card {
+     transition: transform .2s;
+}
+.title-card:hover{
+    transform: scale(1.5);
+}
 body {
     background-color: #121F45;
 }
