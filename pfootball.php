@@ -26,7 +26,7 @@
     </head>
     <body> 
     
-                  <a href="<?php echo $link;?>" target="blank">  <div class="article-title"> <?php echo $title;?> </div> </a>
+                  <a class="title-card" href="<?php echo $link;?>" target="blank">  <div class="article-title"> <?php echo $title;?> </div> </a>
                                 <ul class="article-content">
                                   <div class="article-description"> <?php echo $description; ?> </div> <br/>
                                     <li> <b> Link: </b> <a href="<?php echo $link;?>" target="blank"> <?php echo $link;?>  </a> </li>
