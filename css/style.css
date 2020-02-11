@@ -20,12 +20,7 @@ a:link {
   a:active {
     color: #FFC906;
   }
-.title-card {
-     transition: transform .2s;
-}
-.title-card:hover{
-    transform: scale(1.5);
-}
+
 body {
     background-color: #121F45;
 }
@@ -106,8 +101,10 @@ body {
     font-family: 'Teko', sans-serif;
     font-size: 35px;
     width: 1024px;
+    transition: transform .2s;
     box-shadow: 10px 10px 5px black;
 }
+.article-title:hover{transform: scale(1.5);}
 
 .article-content li{
     list-style-type: none;
